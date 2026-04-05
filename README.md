@@ -7,6 +7,9 @@ A modern, responsive, and professional business landing page template built for 
 
 ---
 
+## 📄 Documentation
+[View Project Documentation](./DOCUMENTATION.md)
+
 ## 📌 About the Project
 
 **SOLTECH Template** is a clean and visually appealing one-page website template designed to showcase digital services, business solutions, and brand identity.
