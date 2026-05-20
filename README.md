@@ -1,90 +1,125 @@
-# SOLTECH Template
+# DAWA Website Documentation
 
-A modern, responsive, and professional business landing page template built for startups, SaaS products, digital agencies, and technology service companies.
-
-## 🌐 Live Demo
-[View Website](https://jenarthan52.github.io/SOLTECH-Template/)
+🔗 Live Website:  
+https://jenarthan52.github.io/DAWA-Website/
 
 ---
 
-## 📄 Documentation
-[View Project Documentation](./DOCUMENTATION.md)
+# 1. Introduction
 
-## 📌 About the Project
-
-**SOLTECH Template** is a clean and visually appealing one-page website template designed to showcase digital services, business solutions, and brand identity.
-
-This project is suitable for:
-
-- SaaS startups
-- IT companies
-- Digital agencies
-- Freelancers
-- Service-based businesses
-- Product landing pages
-
-The template includes all essential business website sections such as hero banner, services, integrations, testimonials, FAQ, and contact form.
+DAWA Website is a modern responsive web application developed to provide a clean, user-friendly, and engaging web experience. The project is designed with responsive layouts and optimized frontend performance to ensure compatibility across different devices and browsers.
 
 ---
 
-## ✨ Features
+# 2. Project Objective
 
-- Fully responsive design
-- Modern and clean UI
-- Professional landing page layout
-- Hero section with CTA
-- Services and solutions showcase
-- Trusted brands / company logos section
-- Business growth and statistics section
-- Integrations showcase
-- Testimonials section
-- FAQ accordion section
-- Contact / Get Started form
-- Footer with useful links
-- Multi-language dropdown support
+The main objective of this project is to:
+
+- Build a responsive and modern website
+- Improve user experience with clean UI/UX
+- Ensure mobile compatibility
+- Deliver fast and optimized performance
+- Deploy the project using GitHub Pages
 
 ---
 
-## 🖼️ Website Sections
+# 3. Features
 
-The template contains the following sections:
-
-- Header / Navigation Bar
-- Hero Section
-- Trusted Brands Section
-- Marketing Performance Section
-- Strategy & Consulting Section
-- Feature Cards
-- One-Stop Solutions Section
-- Integrations Section
-- Personalized Strategy Section
-- Testimonials Section
-- Why Choose Us Section
-- FAQ Section
-- Contact / Get Started Form
-- Footer Section
+- Responsive Web Design
+- Modern User Interface
+- Mobile-Friendly Layout
+- Smooth Navigation
+- Optimized Performance
+- Cross-Browser Support
+- Easy Deployment
 
 ---
 
-## 🛠️ Technologies Used
+# 4. Technologies Used
 
-This project is built using:
-
-- **HTML5**
-- **CSS3**
-- **SCSS**
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure of the website |
+| CSS3 | Styling and layout |
+| JavaScript | Interactive functionality |
+| Bootstrap | Responsive design framework |
+| Git & GitHub | Version control and hosting |
 
 ---
 
-## 📂 Project Structure
+# 5. Project Structure
 
 ```bash
-SOLTECH-Template/
+DAWA-Website/
 │
 ├── index.html
+├── css/
+├── js/
+├── images/
 ├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── icons/
-├── README.md
+└── README.md
+```
+
+---
+
+# 6. Installation Guide
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/jenarthan52/DAWA-Website.git
+```
+
+## Navigate to the Project Folder
+
+```bash
+cd DAWA-Website
+```
+
+## Run the Project
+
+Open the `index.html` file in any modern web browser.
+
+---
+
+# 7. Deployment
+
+This project is deployed using GitHub Pages.
+
+Live Demo:  
+https://jenarthan52.github.io/DAWA-Website/
+
+---
+
+# 8. Advantages
+
+- Easy to use
+- Lightweight design
+- Responsive across devices
+- Simple project structure
+- Fast loading speed
+
+---
+
+# 9. Future Improvements
+
+- Backend integration
+- Database support
+- Authentication system
+- API integration
+- Advanced animations
+
+---
+
+# 10. Conclusion
+
+DAWA Website demonstrates a modern approach to frontend web development using standard web technologies. The project focuses on responsiveness, performance, and clean design principles, making it suitable for real-world deployment and future enhancements.
+
+---
+
+# 11. Author
+
+Developed by **Jenarthan**
+
+GitHub Profile:  
+https://github.com/jenarthan52
